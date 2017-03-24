@@ -1,5 +1,5 @@
-platform-event-socketio
-=======================
+platform-event-node-example
+===========================
 
 Node demo that streams Platform Events from Salesforce.com to the browser using socket.io. You can run the demo by opening:
 
