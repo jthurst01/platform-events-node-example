@@ -1,9 +1,9 @@
-platform-event-servicemax
+platform-event-socketio
 =======================
 
 Node demo that streams Platform Events from Salesforce.com to the browser using socket.io. You can run the demo by opening:
 
-[platform-event-servicemax demo](http://platform-event-servicemax.herokuapp.com/) - New Platform Events are streamed to this app and display in the browser using socket.io.
+[platform-event-socketio demo](http://platform-event-socketio.herokuapp.com/) - New Platform Events are streamed to this app and display in the browser using socket.io.
 
 ### Setup Remote Access in Salesforce.com
 
@@ -16,8 +16,8 @@ Create a new Platform Event from the Setup Menu of your Salesforce Instance.
 ### Running the Application Locally
 
 ```
-git clone https://github.com/jthurst/platform-event-servicemax.git
-cd platform-event-servicemax
+git clone https://github.com/jthurst/platform-event-socketio.git
+cd platform-event-socketio
 npm install
 ```
 
