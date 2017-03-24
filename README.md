@@ -16,7 +16,7 @@ Create a new Platform Event from the Setup Menu of your Salesforce Instance.
 ### Running the Application Locally
 
 ```
-git clone https://github.com/jthurst/platform-event-socketio.git
+git clone https://github.com/jthurst/platform-event-node-example.git
 cd platform-event-socketio
 npm install
 ```
